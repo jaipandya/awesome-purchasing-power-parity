@@ -26,66 +26,108 @@ This list features a curated set of global products with Purchasing Power Parity
 
 ## Entertainment
 
-1. [Netflix](https://www.netflix.com)
-1. [Amazon Prime](https://www.primevideo.com)
-1. [Spotity](https://www.spotify.com)
-1. [Disney Plus](https://www.disneyplus.com)
-1. [Hotstar](https://www.hotstar.com)
-1. [Discovery Plus](https://www.discoveryplus.com)
-1. [Apple TV+](https://tv.apple.com)
-1. [Youtube Premium](https://www.youtube.com/premium)
+- [Netflix](https://www.netflix.com)
+- [Amazon Prime](https://www.primevideo.com)
+- [Spotity](https://www.spotify.com)
+- [Disney Plus](https://www.disneyplus.com)
+- [Hotstar](https://www.hotstar.com)
+- [Discovery Plus](https://www.discoveryplus.com)
+- [Apple TV+](https://tv.apple.com)
+- [Youtube Premium](https://www.youtube.com/premium)
 
 ## Books
 
-1. [Landing Page Hot Tips](https://onepagelove.com/100-tips)
-1. [Pure React Book](https://www.purereact.com/)
-1. [Keep Going](https://mtrostyle.gumroad.com/l/keepgoing)
-1. [Zero To Production In Rust](https://www.zero2prod.com/)
-1. [De-Coding the Technical Interview Process](https://technicalinterviews.dev/)
-1. [Front Line PHP](https://front-line-php.com/)
-
+- [Landing Page Hot Tips](https://onepagelove.com/100-tips)
+- [Pure React Book](https://www.purereact.com/)
+- [Keep Going](https://mtrostyle.gumroad.com/l/keepgoing)
+- [Zero To Production In Rust](https://www.zero2prod.com/)
+- [De-Coding the Technical Interview Process](https://technicalinterviews.dev/)
+- [Front Line PHP](https://front-line-php.com/)
+- [Soul Stirring Digital Color Mastery](https://flurly.com/p/soul-stirring-colors)
+- [Tiny Design Lessons](https://tinydesignlessons.com/)
+- [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/)
+- [The Tech Resume Inside Out](https://thetechresume.com/)
+- [Python on Docker Production Handbook](https://pythonspeed.com/products/productionhandbook/)
+- [Opinionated React](https://opinionatedreact.com)
+- [Complete Freelancing Bundle](https://studywebdevelopment.com/freelancing.html)
+  
 ## Courses
 
-1. [Master Gatsby](https://mastergatsby.com)
-1. [Beginner JavaScript](https://beginnerjavaScript.com)
-1. [Advamced React](https://advancedreact.com)
-1. [ES6 for Everyone](https://es6.io)
-1. [React for Beginners](https://reactforbeginners.com)
-1. [Learn Node](https://learnnode.com)
-1. [Scrimba](https://www.scrimba.com)
-1. [Epic React by Kent C. Dodds](https://epicreact.dev)
-1. [Testing JavaScript](https://testingjavascript.com)
-1. [ui.dev](https://ui.dev)
-1. [Pure React Pro](https://www.purereact.com/)
-1. [Educative](https://educative.io)
-1. [CodeDamn](https://codedamn.com/)
-1. [FrontendMasters](https://frontendmasters.com)
-1. [useEffect.dev](https://useeffect.dev)
-1. [React Query Essentials](https://learn.tanstack.com/p/react-query-essentials)
-1. [Eloquent Performance Patterns](https://eloquent-course.reinink.ca/) (requires sending email)
-1. [Event Sourcing in Laravel](https://event-sourcing-laravel.com/)
-1. [Laravel Beyond CRUD](https://laravel-beyond-crud.com/)
-1. [Laravel Package Training](https://laravelpackage.training/)
-1. [Mastering Nova](https://masteringnova.com/) (\*Click on the link at the bottom)
+- [Master Gatsby](https://mastergatsby.com)
+- [Beginner JavaScript](https://beginnerjavaScript.com)
+- [Advamced React](https://advancedreact.com)
+- [ES6 for Everyone](https://es6.io)
+- [React for Beginners](https://reactforbeginners.com)
+- [Learn Node](https://learnnode.com)
+- [Scrimba](https://www.scrimba.com)
+- [Epic React by Kent C. Dodds](https://epicreact.dev)
+- [Testing JavaScript](https://testingjavascript.com)
+- [ui.dev](https://ui.dev)
+- [Pure React Pro](https://www.purereact.com/)
+- [Educative](https://educative.io)
+- [CodeDamn](https://codedamn.com/)
+- [FrontendMasters](https://frontendmasters.com)
+- [useEffect.dev](https://useeffect.dev)
+- [React Query Essentials](https://learn.tanstack.com/p/react-query-essentials)
+- [Eloquent Performance Patterns](https://eloquent-course.reinink.ca/) \
+  *Send an email to jonathan@reinink.ca to get PPP discount*
+- [Event Sourcing in Laravel](https://event-sourcing-laravel.com/)
+- [Laravel Beyond CRUD](https://laravel-beyond-crud.com/)
+- [Laravel Package Training](https://laravelpackage.training/)
+- [Mastering Nova](https://masteringnova.com/) \
+  *Click on the link at the bottom*
+- [Node CLI Automation](https://nodecli.com)
+- [Master YouTube](https://slowgrowth.com/master-youtube/)
+- [Knodalo](https://www.knodalo.com/) \
+  *DM [@erikgoinsHQ](https://www.twitter.com/erikgoinsHQ) on Twitter to get PPP discount*
+- [Stimulus Reflex Patterns](https://www.stimulusreflexpatterns.com/) \
+  *DM [@julian_rubisch](https://www.twitter.com/julian_rubisch) on Twitter to get PPP discount*
+- [Notion Mastery](https://notionmastery.com/)
+- [Startup Without Code](https://startupwithoutcode.app/)
+- [CSS for JavaScript Developers](https://css-for-js.dev/) \
+  *The course is in pre-launch phase, but the founder promises PPP when it would launch*
+- [Server for Hackers](serversforhackers.com) \
+  *Contact the founder via [email](https://mobile.twitter.com/fideloper/status/1333458640255193091)*
+- [Vim For VSCode](https://vimforvscode.com/) \
+  *Look for Purchasing Power Parity under the FAQs section*
 
 ## Enterprise
 
-1. [Google Workspace](https://workspace.google.com)
-1. [Slack](https://www.slack.com)
+- [Google Workspace](https://workspace.google.com)
+- [Slack](https://www.slack.com)
 
 ## Productivity
 
-1. [Newsletter OS](https://newsletteros.com/) (\*Use the chatbot on the website to ask for PPP)
+- [Newsletter OS](https://newsletteros.com/) \
+  *Use the chatbot on the website to ask for PPP*
 
 ## SaaS
 
-1. [RocketReach](https://www.rocketreach.co)
+- [RocketReach](https://www.rocketreach.co)
+- [LandingFolio](https://landingfolio.com)
+- [TweetPik](https://tweetpik.com/)
+- [EasyRetro](https://easyretro.io/)
+
+## List
+
+- [SaaS File](https://www.swipe.page/) \
+  *Contact [@cogentgene](https://www.twitter.com/cogentgene) on Twitter for PPP discount*
+- [JustDjango Tutorial Hub](https://justdjango.com/tutorial-hub) \
+  *Contact [@justdjangocode](https://twitter.com/justdjangocode/status/1331466567381639170) on Twitter for PPP*
 
 ## Developer Tools
 
-1. [Ray](https://myray.app/)
-1. [Mailcoach](https://mailcoach.app/)
-1. [Media Library Pro](https://medialibrary.pro/)
+- [Ray](https://myray.app/)
+- [Mailcoach](https://mailcoach.app/)
+- [Media Library Pro](https://medialibrary.pro/)
+- [Divjoy](https://divjoy.com/) \
+  *Send a DM to [@gabe_ragland](https://www.twitter.com/gabe_ragland) on Twitter for PPP discount*
+- [Dracula Pro](https://draculatheme.com/pro)
+  
+## Community
+
+- [Shiny Object Social Club](https://shinyobjectsocial.com/) \
+  *DM [@tomosman](https://www.twitter.com/tomosman) on Twitter*
 
 ## Contribute
 
