@@ -38,16 +38,16 @@ This list features a curated set of global products with Purchasing Power Parity
 ## Books
 
 - [Landing Page Hot Tips](https://onepagelove.com/100-tips)
-- [Pure React Book](https://www.purereact.com/)
+- [Pure React Book](https://www.purereact.com)
 - [Keep Going](https://mtrostyle.gumroad.com/l/keepgoing)
-- [Zero To Production In Rust](https://www.zero2prod.com/)
-- [De-Coding the Technical Interview Process](https://technicalinterviews.dev/)
-- [Front Line PHP](https://front-line-php.com/)
+- [Zero To Production In Rust](https://www.zero2prod.com)
+- [De-Coding the Technical Interview Process](https://technicalinterviews.dev)
+- [Front Line PHP](https://front-line-php.com)
 - [Soul Stirring Digital Color Mastery](https://flurly.com/p/soul-stirring-colors)
-- [Tiny Design Lessons](https://tinydesignlessons.com/)
-- [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/)
-- [The Tech Resume Inside Out](https://thetechresume.com/)
-- [Python on Docker Production Handbook](https://pythonspeed.com/products/productionhandbook/)
+- [Tiny Design Lessons](https://tinydesignlessons.com)
+- [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash)
+- [The Tech Resume Inside Out](https://thetechresume.com)
+- [Python on Docker Production Handbook](https://pythonspeed.com/products/productionhandbook)
 - [Opinionated React](https://opinionatedreact.com)
 - [Complete Freelancing Bundle](https://studywebdevelopment.com/freelancing.html)
   
@@ -63,32 +63,32 @@ This list features a curated set of global products with Purchasing Power Parity
 - [Epic React by Kent C. Dodds](https://epicreact.dev)
 - [Testing JavaScript](https://testingjavascript.com)
 - [ui.dev](https://ui.dev)
-- [Pure React Pro](https://www.purereact.com/)
+- [Pure React Pro](https://www.purereact.com)
 - [Educative](https://educative.io)
-- [CodeDamn](https://codedamn.com/)
+- [CodeDamn](https://codedamn.com)
 - [FrontendMasters](https://frontendmasters.com)
 - [useEffect.dev](https://useeffect.dev)
 - [React Query Essentials](https://learn.tanstack.com/p/react-query-essentials)
-- [Eloquent Performance Patterns](https://eloquent-course.reinink.ca/) \
+- [Eloquent Performance Patterns](https://eloquent-course.reinink.ca) \
   *Send an email to jonathan@reinink.ca to get PPP discount*
-- [Event Sourcing in Laravel](https://event-sourcing-laravel.com/)
-- [Laravel Beyond CRUD](https://laravel-beyond-crud.com/)
-- [Laravel Package Training](https://laravelpackage.training/)
-- [Mastering Nova](https://masteringnova.com/) \
+- [Event Sourcing in Laravel](https://event-sourcing-laravel.com)
+- [Laravel Beyond CRUD](https://laravel-beyond-crud.com)
+- [Laravel Package Training](https://laravelpackage.training)
+- [Mastering Nova](https://masteringnova.com) \
   *Click on the link at the bottom*
 - [Node CLI Automation](https://nodecli.com)
-- [Master YouTube](https://slowgrowth.com/master-youtube/)
-- [Knodalo](https://www.knodalo.com/) \
+- [Master YouTube](https://slowgrowth.com/master-youtube)
+- [Knodalo](https://www.knodalo.com) \
   *DM [@erikgoinsHQ](https://www.twitter.com/erikgoinsHQ) on Twitter to get PPP discount*
-- [Stimulus Reflex Patterns](https://www.stimulusreflexpatterns.com/) \
+- [Stimulus Reflex Patterns](https://www.stimulusreflexpatterns.com) \
   *DM [@julian_rubisch](https://www.twitter.com/julian_rubisch) on Twitter to get PPP discount*
-- [Notion Mastery](https://notionmastery.com/)
-- [Startup Without Code](https://startupwithoutcode.app/)
-- [CSS for JavaScript Developers](https://css-for-js.dev/) \
+- [Notion Mastery](https://notionmastery.com)
+- [Startup Without Code](https://startupwithoutcode.app)
+- [CSS for JavaScript Developers](https://css-for-js.dev) \
   *The course is in pre-launch phase, but the founder promises PPP when it would launch*
 - [Server for Hackers](serversforhackers.com) \
   *Contact the founder via [email](https://mobile.twitter.com/fideloper/status/1333458640255193091)*
-- [Vim For VSCode](https://vimforvscode.com/) \
+- [Vim For VSCode](https://vimforvscode.com) \
   *Look for Purchasing Power Parity under the FAQs section*
 
 ## Enterprise
@@ -98,35 +98,36 @@ This list features a curated set of global products with Purchasing Power Parity
 
 ## Productivity
 
-- [Newsletter OS](https://newsletteros.com/) \
+- [Newsletter OS](https://newsletteros.com) \
   *Use the chatbot on the website to ask for PPP*
 
 ## SaaS
 
+- [Evernote](https://evernote.com)
 - [RocketReach](https://www.rocketreach.co)
 - [LandingFolio](https://landingfolio.com)
-- [TweetPik](https://tweetpik.com/)
-- [EasyRetro](https://easyretro.io/)
+- [TweetPik](https://tweetpik.com)
+- [EasyRetro](https://easyretro.io)
 
 ## List
 
-- [SaaS File](https://www.swipe.page/) \
+- [SaaS File](https://www.swipe.page) \
   *Contact [@cogentgene](https://www.twitter.com/cogentgene) on Twitter for PPP discount*
 - [JustDjango Tutorial Hub](https://justdjango.com/tutorial-hub) \
   *Contact [@justdjangocode](https://twitter.com/justdjangocode/status/1331466567381639170) on Twitter for PPP*
 
 ## Developer Tools
 
-- [Ray](https://myray.app/)
-- [Mailcoach](https://mailcoach.app/)
-- [Media Library Pro](https://medialibrary.pro/)
-- [Divjoy](https://divjoy.com/) \
+- [Ray](https://myray.app)
+- [Mailcoach](https://mailcoach.app)
+- [Media Library Pro](https://medialibrary.pro)
+- [Divjoy](https://divjoy.com) \
   *Send a DM to [@gabe_ragland](https://www.twitter.com/gabe_ragland) on Twitter for PPP discount*
 - [Dracula Pro](https://draculatheme.com/pro)
   
 ## Community
 
-- [Shiny Object Social Club](https://shinyobjectsocial.com/) \
+- [Shiny Object Social Club](https://shinyobjectsocial.com) \
   *DM [@tomosman](https://www.twitter.com/tomosman) on Twitter*
 
 ## Contribute
