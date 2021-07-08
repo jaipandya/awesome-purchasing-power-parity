@@ -75,26 +75,26 @@ This list features a curated set of global products with Purchasing Power Parity
 - [useEffect.dev](https://useeffect.dev)
 - [React Query Essentials](https://learn.tanstack.com/p/react-query-essentials)
 - [Eloquent Performance Patterns](https://eloquent-course.reinink.ca) \
-  *Send an email to jonathan@reinink.ca to get PPP discount*
+  Send an email to jonathan@reinink.ca to get PPP discount
 - [Event Sourcing in Laravel](https://event-sourcing-laravel.com)
 - [Laravel Beyond CRUD](https://laravel-beyond-crud.com)
 - [Laravel Package Training](https://laravelpackage.training)
 - [Mastering Nova](https://masteringnova.com) \
-  *Click on the link at the bottom*
+  Click on the link at the bottom
 - [Node CLI Automation](https://nodecli.com)
 - [Master YouTube](https://slowgrowth.com/master-youtube)
 - [Knodalo](https://www.knodalo.com) \
-  *DM [@erikgoinsHQ](https://www.twitter.com/erikgoinsHQ) on Twitter to get PPP discount*
+  DM [@erikgoinsHQ](https://www.twitter.com/erikgoinsHQ) on Twitter to get PPP discount
 - [Stimulus Reflex Patterns](https://www.stimulusreflexpatterns.com) \
-  *DM [@julian_rubisch](https://www.twitter.com/julian_rubisch) on Twitter to get PPP discount*
+  DM [@julian_rubisch](https://www.twitter.com/julian_rubisch) on Twitter to get PPP discount
 - [Notion Mastery](https://notionmastery.com)
 - [Startup Without Code](https://startupwithoutcode.app)
 - [CSS for JavaScript Developers](https://css-for-js.dev) \
-  *The course is in pre-launch phase, but the founder promises PPP when it would launch*
+  The course is in pre-launch phase, but the founder promises PPP when it would launch
 - [Server for Hackers](serversforhackers.com) \
-  *Contact the founder via [email](https://mobile.twitter.com/fideloper/status/1333458640255193091)*
+  Contact the founder via [email](https://mobile.twitter.com/fideloper/status/1333458640255193091)
 - [Vim For VSCode](https://vimforvscode.com) \
-  *Look for Purchasing Power Parity under the FAQs section*
+  Look for Purchasing Power Parity under the FAQs section
 
 ## Enterprise
 
@@ -104,7 +104,7 @@ This list features a curated set of global products with Purchasing Power Parity
 ## Productivity
 
 - [Newsletter OS](https://newsletteros.com) \
-  *Use the chatbot on the website to ask for PPP*
+  Use the chatbot on the website to ask for PPP
 
 ## SaaS
 
@@ -117,9 +117,9 @@ This list features a curated set of global products with Purchasing Power Parity
 ## List
 
 - [SaaS File](https://www.swipe.page) \
-  *Contact [@cogentgene](https://www.twitter.com/cogentgene) on Twitter for PPP discount*
+  Contact [@cogentgene](https://www.twitter.com/cogentgene) on Twitter for PPP discount
 - [JustDjango Tutorial Hub](https://justdjango.com/tutorial-hub) \
-  *Contact [@justdjangocode](https://twitter.com/justdjangocode/status/1331466567381639170) on Twitter for PPP*
+  Contact [@justdjangocode](https://twitter.com/justdjangocode/status/1331466567381639170) on Twitter for PPP
 
 ## Developer Tools
 
@@ -127,20 +127,20 @@ This list features a curated set of global products with Purchasing Power Parity
 - [Mailcoach](https://mailcoach.app)
 - [Media Library Pro](https://medialibrary.pro)
 - [Divjoy](https://divjoy.com) \
-  *Send a DM to [@gabe_ragland](https://www.twitter.com/gabe_ragland) on Twitter for PPP discount*
+  Send a DM to [@gabe_ragland](https://www.twitter.com/gabe_ragland) on Twitter for PPP discount
 - [Dracula Pro](https://draculatheme.com/pro)
   
 ## Community
 
 - [Shiny Object Social Club](https://shinyobjectsocial.com) \
-  *DM [@tomosman](https://www.twitter.com/tomosman) on Twitter*
+  DM [@tomosman](https://www.twitter.com/tomosman) on Twitter
 
 ## Tools
 
 - [Parity Bar](https://paritybar.com) \
-  *Offer your customers a discount based on their location*
+  Offer your customers a discount based on their location
 - [PPP API](https://purchasing-power-parity.com) \
-  *Convert pricing of your product to PPP supported pricing for any country. Comes with a JS library.*
+  Convert pricing of your product to PPP supported pricing for any country. Comes with a JS library.
 - [Exportator](https://www.exportator.com) \
   Offer location based pricing with VPN and proxy protection
 
