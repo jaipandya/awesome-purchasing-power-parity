@@ -4,9 +4,9 @@
 > countries that uses the prices of specific goods to compare the
 > absolute purchasing power of the countries' currencies.
 
-A person sitting in India might have access to the same set of goods that a person in the US would have. For example, Netflix is available both in the US and in India (and hundreds of other places around the world)
+A person in India might have access to the same set of goods a person in the US would have. For example, Netflix is available both in the US and in India (and hundreds of other places around the world)
 
-But people across different geographies don't earn the same amount of money, and usually, local prices of goods reflect it very well. e.g. price of a Coke 2L (~68 oz) bottle is 4.4 USD in the US, while you can buy the thing for around 1 USD in India.
+But people across different geographies don't earn the same amount of money, and usually, local prices of goods reflect it very well. e.g., the price of a Coke 2L (~68 oz) bottle is 4.4 USD in the US, while you can buy the thing for around 1 USD in India.
 
 Naturally, an average person in India doesn't earn as much.
 
@@ -22,7 +22,12 @@ This list features a curated set of global products with Purchasing Power Parity
 - [Enterprise](#enterprise)
 - [Productivity](#productivity)
 - [SaaS](#saas)
+- [List](#list)
 - [Developer Tools](#developer-tools)
+- [Community](#community)
+- [Tools](#tools)
+- [Resources](#resources)
+- [Contribute](#contribute)
 
 ## Entertainment
 
@@ -129,6 +134,22 @@ This list features a curated set of global products with Purchasing Power Parity
 
 - [Shiny Object Social Club](https://shinyobjectsocial.com) \
   *DM [@tomosman](https://www.twitter.com/tomosman) on Twitter*
+
+## Tools
+
+- [Parity Bar](https://paritybar.com) \
+  *Offer your customers a discount based on their location*
+- [PPP API](https://purchasing-power-parity.com) \
+  *Convert pricing of your product to PPP supported pricing for any country. Comes with a JS library.*
+- [Exportator](https://www.exportator.com) \
+  Offer location based pricing with VPN and proxy protection
+
+## Resources
+
+- [Big Mac Index](https://www.economist.com/big-mac-index)
+- [How Wes Bos uses PPP to sell his courses](https://wesbos.com/parity-purchasing-power)
+- [Syntax.fm Podcast - Hasty Treat - Purchasing Power Parity](https://syntax.fm/show/233/hasty-treat-purchasing-power-parity)
+- [SaaS pricing using PPP rates by Brian Sigafoos](https://briansigafoos.com/saas-pricing-using-ppp-rates/)
 
 ## Contribute
 
