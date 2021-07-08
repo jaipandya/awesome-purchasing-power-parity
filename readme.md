@@ -95,6 +95,7 @@ This list features a curated set of global products with Purchasing Power Parity
   Contact the founder via [email](https://mobile.twitter.com/fideloper/status/1333458640255193091)
 - [Vim For VSCode](https://vimforvscode.com) \
   Look for Purchasing Power Parity under the FAQs section
+- [Testing Spring Boot Applications Masterclass](https://rieckpil.de/testing-spring-boot-applications-masterclass/)
 
 ## Enterprise
 
