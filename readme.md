@@ -114,6 +114,7 @@ This list features a curated set of global products with Purchasing Power Parity
 - [LandingFolio](https://landingfolio.com)
 - [TweetPik](https://tweetpik.com)
 - [EasyRetro](https://easyretro.io)
+- [Launcher](https://uselauncher.com)
 
 ## List
 
