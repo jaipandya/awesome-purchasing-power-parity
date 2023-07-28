@@ -60,7 +60,7 @@ This list features a curated set of global products with Purchasing Power Parity
 
 - [Master Gatsby](https://mastergatsby.com)
 - [Beginner JavaScript](https://beginnerjavaScript.com)
-- [Advamced React](https://advancedreact.com)
+- [Advanced React](https://advancedreact.com)
 - [ES6 for Everyone](https://es6.io)
 - [React for Beginners](https://reactforbeginners.com)
 - [Learn Node](https://learnnode.com)
